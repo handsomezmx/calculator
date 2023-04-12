@@ -14,7 +14,7 @@ To run this project, you'll need Rust and Cargo installed on your system. If you
 
 First, clone the repository or download the source code:
 
-git clone https://github.com/yourusername/calculator.git
+git clone 
 
 Change to the project directory:
 
@@ -50,6 +50,3 @@ Division:
 
 cargo run -- --operation div 10 2
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
